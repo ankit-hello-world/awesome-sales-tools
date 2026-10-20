@@ -220,6 +220,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 ## Sales Enablement and Training
 
 - [Allego](https://www.allego.com) - Sales training and coaching with call recording and digital sales rooms. Onboard reps, review conversations and organize the content they share with buyers.
+- [Debriefing](https://debriefing.io) - Competitor tracking with sourced briefs on pricing, product and hiring changes. Update battlecards and get recommended actions by email or Slack.
 - [Guru](https://www.getguru.com) - Internal knowledge base with content verification workflows. Maintain playbooks and find answers through a browser extension, Slack, or Teams.
 - [Highspot](https://www.highspot.com) - Sales content and training software, merged with Seismic in 2026. Organize materials, see how buyers engage with them and coach reps.
 - [Hyperbound](https://www.hyperbound.ai) - AI buyer simulations for sales role-play. Practice conversations and use scores and feedback to guide coaching.
