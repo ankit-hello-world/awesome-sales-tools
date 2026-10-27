@@ -137,6 +137,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 - [HeyReach](https://www.heyreach.io) - LinkedIn outreach automation across multiple sender accounts. Run campaigns for several senders and manage replies in one inbox.
 - [La Growth Machine](https://lagrowthmachine.com) - Prospecting across LinkedIn, email, X and calls, including LinkedIn voice messages. Add missing prospect data and combine channel-specific steps in a follow-up sequence.
 - [Makelead](https://makelead.io) - French LinkedIn and X prospecting tool that starts from people who like or comment on posts in your market. Send an invitation, a message and two follow-ups that stop at the first reply.
+- [OutreachGenie](https://www.outreachgenie.ai/) - LinkedIn prospecting workspace with browser capture and CSV imports. Review lists and custom fields, then build reusable outreach flows and start campaigns.
 
 ## Video Prospecting and Gifting
 
@@ -149,6 +150,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 
 - [Avoma](https://www.avoma.com) - Meeting assistant with scheduling and revenue forecasting. Capture notes and follow-ups and review calls to coach sales reps.
 - [Chorus](https://www.zoominfo.com/products/chorus) - Sales call recording and analysis from ZoomInfo. Review conversations and compare patterns across the team's calls.
+- [Dagmor](https://dagmor.app/) - Call recording review and customer-answer analysis for contact centres. Send a completed call campaign to read transcripts, use your own checks or a call-drafted script, and inspect human decisions, agent scores and coverage reports.
 - [Fathom](https://www.fathom.ai) - Meeting recorder with CRM sync. Turn calls into transcripts and summaries and review them for coaching.
 - [Gong](https://www.gong.io) - Sales call recording with deal health and coaching tools. Review conversations to coach reps, assess deals and forecast revenue.
 - [Otter.ai](https://otter.ai) - Transcription for live meetings and imported audio. Summarize discussions and ask questions about them through AI chat.
